@@ -1,6 +1,5 @@
 # Touched by user2
 # Test by user2
-# Modified by user2
 def gcd(a, b):
     while(a % b != 0):
         temp = a % b
