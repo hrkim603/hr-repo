@@ -16,3 +16,6 @@ GCD = gcd(gcd(a,b), c)
 LCM = lcm(lcm(a, b), c)
 
 print(GCD, LCM)
+
+
+# user1
