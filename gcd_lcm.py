@@ -2,8 +2,6 @@
 # Pull-request-1
 # Pull-request-2
 
-# modified line-user1
-
 def gcd(a, b):
     while(a % b != 0):
         temp = a % b
